@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Form 0 programming to my first professional site in 6 months for one dollar.
+title: Form 0 programming to my first professional site in 6 months for one dollar. (Incomplete)
 ---
 
 Well the numbers aren't that "true", but I had to get you into here. Let me contextualize you first. I'm a last year of highschool's student in Mexico City and a couple of years ago I started to discover the internet stuff that I now love: awesome Youtube channels, TED, well done google search, and MOOC's.

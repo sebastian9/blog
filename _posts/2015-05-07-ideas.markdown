@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Web Apps
+title: Ideas
 ---
 
-+ Taxi QR
-+ Cajero
+This post is just a place for ideas and projects I want to develop, if you are into them you can mail me
+
++ Taxi
++ POS
 + Directorio de Transporte
 + Porque te quiero .com
-+ Registro de luz CFE
++ Parking Post
++ Automatic greenhouse
++ Estratosferic satelite
