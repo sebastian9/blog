@@ -73,3 +73,4 @@ Notas:
 
 + Siempre enfocarse en las necesidades del usuario.
 + Deuda técninca: Arrastre de "subtelties" técnicas.
++ Leer a John Maxwell
