@@ -1,0 +1,75 @@
+---
+layout: post
+date: 05-08-2015
+---
+
+# Scrum
+
++ Trabajar por objetivos
++ Replantear fechas de entrega 
+
+### ¿Qué implica ser ágil?
+
++ Equipos de alto desempeño
++ Fomentar la comunicación
++ Ser transparente y adaptarse
+
+### Paradigmas
+
++ Formas de ver las cosas
++ Malos entendidos
+
+PE.: El cliente sabe lo que quiere.
+
+Paradigmas Agile:
+
++ Es cosas de magia
++ No documentamos
++ Todo sale más rápido y más barato
++ Las personas se adaptan de inmediato
++ No sirve y quita mucho tiempo
+
+### Con AGILE
+
++ Iteraciones cortas
+	+ Sprints Varias iteraciones cortas que constan de:
+		+ Análisis
+		+ Diseño
+		+ Desarrollo
+		+ Pruebas
+		+ Entregas
+
++ Transparencia
++ Sólo la documentación necesaria
++ Bienvenidos los cambios
++ Fail Fast
+
+### Introducción a Scrum
+
+Variables del Juego
+
+1. Valor
+2. Calidad
+3. Restricciones
+
+Principios en Scrum
+
++ Iterative Development
++ Empirical Process Control
+	+ Adaptación
+	+ Inspección
+	+ Transparencia
++ Self-organisation
++ Collaboration
+	+ Awareness
+	+ Articulación
+	+ Apropiación
++ Value-based Priorization
++ Time-boxing
+
+
+
+Notas:
+
++ Siempre enfocarse en las necesidades del usuario.
++ Deuda técninca: Arrastre de "subtelties" técnicas.
