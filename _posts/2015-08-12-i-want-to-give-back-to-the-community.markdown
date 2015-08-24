@@ -14,6 +14,6 @@ Both things will be ready in the next couple of weeks as a matter of priority ev
 
 As a curious thing Why actually inspired CodeCademy the place where I've learned the most.
 
-***
+<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BM6oQTb_tjQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/BM6oQTb_tjQ?rel=0" frameborder="0" allowfullscreen></iframe>
