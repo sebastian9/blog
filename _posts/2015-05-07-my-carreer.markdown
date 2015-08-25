@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Form nothing to a professional site in 6 months for $1 USD.  (Incomplete)
+title: Form nothing to a professional site in 6 months for 50 cents.
 ---
 
 Well the timeline isn't strictly "true", but I had to get your attention. Let me contextualize you first. I was at my last year of highschool in Mexico City and a couple of years before I had started to discover the internet's good stuff that I now love: awesome Youtube channels, [TED](http://ted.com), well executed google search, and [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course).
@@ -37,7 +37,20 @@ Finally I became interested in different preprocessors like [Haml](http://http:/
 
 # Dodecaedro, My First Professional Site
 
+As usual a friend was involved, this time his name was Said. Said simply loved movies and knew a lot about them. About the time I was finishing my Code Cademy courses we talked about a project he had with a friend of his. The project consisted in making short films and uploading them to the internet; since they wanted to make a living as movie directors, it was a good start.
 
+When Said told me about this I inmmediatley volunteered for making his official web page and blog, but I had a lot to learn yet and time passed. Eventually I realized that a place for amateur artists to communicate their creations with the general public was necessary. Dodecaedro turned into a place for culture in fields like writing, photography, music and movies of course. 
+
+In Mexico we lack an eductation for art appreciation, let alone national arts; people just don't care enough, and consequently it's very difficult for underground artists to reach the general public. All of this makes Dodecaedro an awesome challenge and a very sustainable community driven project. I commited myself to the project beacause, as I always say to the team "Art increases the quality of living".
+
+Initially I tried Ruby on Rails for the project hoping to host it on Heroku or Amazon. I turned myself to the Michael Hartl tutorial again, but still found upon a very steep learning curve ahead. I decided to turn for a more straight forward solution and followed with Comfortable Mexican Sofa (driven by nationalism, ironically) a ruby gem content management system, but once the site was ready I just couldn't upload it to heroku.
+
+A month before, trying to find cheap hosting I met foundation, github pages and jekyll. After my two disastrous attempts I needed to find an easier solution so I decided to give jekyll a shot. Nothing could be much friendlier, I made my partials in HTML/CSS whith the help of foundation and in a matter of four days worth of work the Dodecaedro site was working.
+
+Finally I had my first project for the community: a professional site with free hosting in Github Pages, a 50 cent domain for the first year, and a team of artists.
+
+*I later faced some issues you can read about [here](//sebastianls.com/blog/2015/09/24/jekyllpub.html)*
 
 + *First update: 10-05-2015*
 + *Second update: 24-09-2015*
++ *Third update and release: 25-09-2015*
